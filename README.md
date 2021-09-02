@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Denilson87/Denilson87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm, a passionate Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an E-commerce Project!
+- 🌱 Deep passion 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2019 Goals: Learn more web technologies and focus on UI/UX
+- ⚡ Fun fact: I love creating new projects, discussing socio-economic issues.
+
+### Connect with me:
+
+[<img align="left" alt="portfolio" width="22px" src="https://denilson87.netlify.app/"/>][website]
