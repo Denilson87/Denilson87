@@ -8,7 +8,4 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2019 Goals: Learn more web technologies and focus on UI/UX
 - ⚡ Fun fact: I love creating new projects, discussing socio-economic issues.
-
-### Connect with me:
-
-[<img align="center" alt="" width="22px" src="https://denilson87.netlify.app/"/>][website]
+- 🥅 Email: denilsonmucavel@outlook.com
