@@ -3,7 +3,7 @@
 
 ## I'm, a passionate Developer!
 
-- 🔭 I’m currently working on an E-commerce Project!
+- 🔭 I’m currently going deep on ReactJS, NodeJS!
 - 🌱 Deep passion 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2019 Goals: Learn more web technologies and focus on UI/UX
@@ -11,4 +11,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio" width="22px" src="https://denilson87.netlify.app/"/>][website]
+[<img align="center" alt="portfolio" width="22px" src="https://denilson87.netlify.app/"/>][website]
