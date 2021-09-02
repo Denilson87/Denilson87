@@ -11,4 +11,4 @@
 
 ### Connect with me:
 
-[<img align="center" alt="portfolio" width="22px" src="https://denilson87.netlify.app/"/>][website]
+[<img align="center" alt="" width="22px" src="https://denilson87.netlify.app/"/>][website]
