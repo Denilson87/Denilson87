@@ -3,7 +3,7 @@
 
 ## I'm, a passionate Developer!
 
-- 🔭 I’m currently going deep on ReactJS, NodeJS!, Laravel.
+- 🔭 I’m currently going deep on Java, ReactJS, NodeJS!, Laravel and SpringBoot as well.
 - 🌱 I'm a achivements gainnner.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2019 Goals: Learn more web technologies and focus on UI/UX
