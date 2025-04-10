@@ -2,14 +2,13 @@
 
 
 ## Full-stack Developer!
-
+🇲🇿
 - 🔭 I’m currently going deep on Java, ReactJS, NodeJS!, Laravel and SpringBoot as well.
 - 🌱 I'm a achivements gainnner.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2019 Goals: Learn more web technologies and focus on UI/UX
 - ⚡ Fun fact: I love creating new projects, discussing socio-economic issues.
+- 🤵 Goals: Grow everyday and get better.
 - 🥅 Email: denilsonmucavel@outlook.com
-
 
 #### Top Technologies
 
